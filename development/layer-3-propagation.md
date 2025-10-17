@@ -2,6 +2,11 @@
 
 The **Propagation Engine** is WakeIQX's predictive intelligence layer. It answers the question: **"What contexts will be needed next?"**
 
+n::: tip Semantic Intent Research
+The Propagation Engine answers **future-oriented questions**: "What will be needed next?" This implements semantic intent principles where context carries forward-looking metadata about its predicted utility, enabling proactive intelligence.
+
+📚 [Explore the research →](https://semanticintent.dev/papers/semantic-intent-ssot)
+:::
 By analyzing access patterns, causal relationships, and temporal signals, the Propagation Engine predicts which contexts are most likely to be accessed soon, enabling **pre-fetching** and **intelligent prioritization**.
 
 ## Core Concept

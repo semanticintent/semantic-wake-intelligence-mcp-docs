@@ -45,6 +45,7 @@ export default defineConfig({
       { text: 'Architecture', link: '/development/architecture' },
       { text: 'API Reference', link: '/api/overview' },
       { text: 'Tools', link: '/tools/overview' },
+      { text: '🔬 Research', link: 'https://semanticintent.dev/papers/semantic-intent-ssot' },
       { text: 'About', link: '/about-mascot' }
     ],
 
@@ -114,7 +115,7 @@ export default defineConfig({
     // Footer
     footer: {
       message: 'Past → Present → Future | Temporal Intelligence for AI Agents',
-      copyright: 'Part of the Cormorant Trinity | MIT License | <a href="/privacy-policy">Privacy</a> • <a href="/terms-of-service">Terms</a> • <a href="/cookie-policy">Cookies</a> • <a href="/disclaimer">Disclaimer</a>'
+      copyright: 'Built on research from <a href="https://semanticintent.dev/papers/semantic-intent-ssot" target="_blank">semanticintent.dev</a> | Part of the Cormorant Trinity | MIT License | <a href="/privacy-policy">Privacy</a> • <a href="/terms-of-service">Terms</a> • <a href="/cookie-policy">Cookies</a> • <a href="/disclaimer">Disclaimer</a>'
     },
 
     // Social links

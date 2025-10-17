@@ -3,6 +3,11 @@
 WakeIQX implements a **temporal intelligence brain** with three specialized layers that work together to provide AI agents with sophisticated context awareness across time dimensions.
 
 ## The Three Layers
+n::: tip Research Foundation
+The 3-layer temporal architecture (Past-Present-Future) implements principles from semantic intent research. This design treats context as a living graph where each node carries semantic meaning about **why** it exists, **how** it remains relevant, and **what** future value it holds.
+
+📚 **Read the foundational research**: [Semantic Intent as Single Source of Truth](https://semanticintent.dev/papers/semantic-intent-ssot)
+:::
 
 ```
 ┌─────────────────────────────────────────────────────┐

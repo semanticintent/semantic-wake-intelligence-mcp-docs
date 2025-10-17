@@ -2,6 +2,11 @@
 
 The **Causality Engine** is the foundation of WakeIQX's temporal intelligence. It tracks the **causal relationships** between contexts, allowing you to understand **why** decisions were made and **how** contexts are connected through time.
 
+n::: tip Semantic Intent Research
+The Causality Engine implements backward causal reasoning - understanding not just **what** happened, but **why** it happened. This follows semantic intent principles where every context carries its creation rationale as intrinsic metadata.
+
+📚 [Explore the research →](https://semanticintent.dev/papers/semantic-intent-ssot)
+:::
 ## Core Concept
 
 Every context in WakeIQX can be linked to a **parent context** that caused it to be created. This creates a **causal chain** that traces decision history backwards through time.

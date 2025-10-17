@@ -2,6 +2,11 @@
 
 The **Memory Manager** maintains the **present-time relevance** of contexts through intelligent lifecycle management. It answers the question: **"How relevant is this context right now?"**
 
+n::: tip Semantic Intent Research
+The Memory Manager treats context relevance as a **present-tense question**: "How valuable is this right now?" This implements semantic intent principles where metadata isn't static - it evolves with usage patterns and temporal decay.
+
+📚 [Explore the research →](https://semanticintent.dev/papers/semantic-intent-ssot)
+:::
 ## Core Concept
 
 Not all contexts are equally relevant at all times. The Memory Manager automatically classifies contexts into **memory tiers** based on their access patterns and age, similar to how a computer's memory hierarchy works (L1 cache → L2 cache → RAM → Disk).

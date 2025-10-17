@@ -2,6 +2,11 @@
 
 Welcome to the story behind Wake Intelligence's mascot - the **Wake Cormorant**, a diving bird that embodies the essence of temporal intelligence.
 
+n::: info Meet Professor Wake 🦉
+*"Hoot hoot! I'm the Wake Cormorant, and I'm based on real cognitive science research from semanticintent.dev. My three-layer brain (Past-Present-Future) mirrors how humans naturally think about time and causality. Let me guide you through temporal intelligence..."*
+
+🔬 [Read the research that inspired my design →](https://semanticintent.dev/papers/semantic-intent-ssot)
+:::
 ## Why a Cormorant?
 
 The cormorant is a masterful diving bird found in waters around the world. What makes it perfect for Wake Intelligence:
