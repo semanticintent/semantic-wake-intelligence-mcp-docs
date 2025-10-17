@@ -1,0 +1,17 @@
+/**
+ * Cloudflare Workers configuration for WakeIQX Documentation
+ * Using Workers module (not Pages) for deployment
+ *
+ * For more details: https://developers.cloudflare.com/workers/wrangler/configuration/
+ */
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "semantic-wake-docs",
+	"compatibility_date": "2025-10-17",
+	"assets": {
+		"directory": "./.vitepress/dist"
+	},
+	"observability": {
+		"enabled": true
+	}
+}

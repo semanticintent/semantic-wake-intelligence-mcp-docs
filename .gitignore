@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# VitePress build output
+.vitepress/dist
+.vitepress/cache
+
+# Wrangler
+.wrangler/
+dist/
+
+# Environment files
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+.temp/
+.cache/

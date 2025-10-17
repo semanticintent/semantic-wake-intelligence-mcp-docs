@@ -1,0 +1,30 @@
+{
+  "name": "semantic-wake-intelligence-mcp-docs",
+  "version": "3.0.0",
+  "description": "Documentation for WakeIQX - Temporal intelligence for AI agents with 3-layer brain architecture",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev",
+    "start": "wrangler dev",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "keywords": [
+    "wake-intelligence",
+    "temporal-intelligence",
+    "mcp",
+    "documentation",
+    "causality-engine",
+    "memory-manager",
+    "propagation-engine",
+    "ai-agents"
+  ],
+  "author": "semanticintent",
+  "license": "MIT",
+  "devDependencies": {
+    "vitepress": "^1.6.4",
+    "wrangler": "^4.43.0"
+  }
+}
