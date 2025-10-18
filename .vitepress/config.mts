@@ -42,6 +42,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Getting Started', link: '/getting-started' },
+      { text: '🎮 Playground', link: '/playground' },
       { text: 'Architecture', link: '/development/architecture' },
       { text: 'API Reference', link: '/api/overview' },
       { text: 'Tools', link: '/tools/overview' },
@@ -56,6 +57,7 @@ export default defineConfig({
         items: [
           { text: 'What is WakeIQX?', link: '/index' },
           { text: 'Getting Started', link: '/getting-started' },
+      { text: '🎮 Playground', link: '/playground' },
           { text: 'Meet the Mascot', link: '/about-mascot' }
         ]
       },
